@@ -1,0 +1,33 @@
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\bin\Debug\net8.0-windows\Schedule Timetable For Huster.exe
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\bin\Debug\net8.0-windows\Schedule Timetable For Huster.deps.json
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\bin\Debug\net8.0-windows\Schedule Timetable For Huster.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\bin\Debug\net8.0-windows\Schedule Timetable For Huster.dll
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\bin\Debug\net8.0-windows\Schedule Timetable For Huster.pdb
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\bin\Debug\net8.0-windows\Aspose.Cells.dll
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.Form1.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule.20A78677.Up2Date
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.dll
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\refint\Schedule Timetable For Huster.dll
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.pdb
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule Timetable For Huster.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\ref\Schedule Timetable For Huster.dll
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.Class.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.SetCoefficient.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.Time.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.TimetableSetting2.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.TimetableSetting3.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.Result.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.ResultHelp.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.TimetableSetting1Help.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.TimetableSetting3Help.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.ClassInfo.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.SetTimeCoefficient.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.TimeCoefficient.resources
+C:\Users\ADMIN\Desktop\Schedule Timetable For Huster\obj\Debug\net8.0-windows\Schedule_Timetable_For_Huster.ResultClass.resources
