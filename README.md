@@ -6,5 +6,8 @@ Set-Up-File: Contains the software installation files.<br>
 Expected-Timetable-Sample: Contains the expected timetable file of the 20232 semester of Hanoi University of Science and Technology. This file is already in the Schedule Timetable For Huster folder in the Project-Source-Code branch.<br>
 Guide: Contains video instructions on how to use the software.<br>
 This software started writing on July 12, 2024, so there is still room for improvement in user experience and user interface.<br>
-Error: The current version has an error calculating incorrect scores for results in the "Result" form. If you encounter this error, close the "Result" form and press "Continue" on the form that appears.<br>
+Error: The current version has an error calculating incorrect scores for results in the "Result" form. If you encounter this error, close the "Result" form and press "Continue" on the form that appears.In version 2, this bug may have been fixed. If you continue to encounter this error, please notify us.<br>
 Improvements: In the next versions, the development team plans to add the function of arranging schedules by school week, adding constraints on distance between classrooms, improving time constraints, improving "Save" features, adds a result statistics feature, allowing users to customize the speed of creating timetables.
+Version history:
+Version 1: First Release.
+Version 2: Fix error, change scheduling by course to by group of classes.
