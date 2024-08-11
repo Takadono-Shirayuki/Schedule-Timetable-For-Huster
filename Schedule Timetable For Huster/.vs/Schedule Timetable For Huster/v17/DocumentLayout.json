@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\resultclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:resultclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\resultclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:resultclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\timetablesetting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timetablesetting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\timetablesetting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timetablesetting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\manageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:manageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\timetablesetting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timetablesetting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\timetablesetting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timetablesetting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\settimecoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:settimecoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\manageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:manageclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\groupdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:groupdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\classinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:classinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\timecoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timecoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\classinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:classinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|c:\\users\\admin\\desktop\\schedule timetable for huster\\timecoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timecoefficient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\resultclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:resultclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\timetablesetting3help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAF9EBA8-8435-433E-BB75-AD26CA1AFC2E}|Schedule Timetable For Huster.csproj|solutionrelative:timetablesetting3help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageClasses.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ManageClasses.cs",
+              "RelativeDocumentMoniker": "ManageClasses.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ManageClasses.cs",
+              "RelativeToolTip": "ManageClasses.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAewAYBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:22:29.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultClass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ResultClass.Designer.cs",
+              "RelativeDocumentMoniker": "ResultClass.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ResultClass.Designer.cs",
+              "RelativeToolTip": "ResultClass.Designer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAjwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:52:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupDialog.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\GroupDialog.cs",
+              "RelativeDocumentMoniker": "GroupDialog.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\GroupDialog.cs",
+              "RelativeToolTip": "GroupDialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:02:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageClasses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ManageClasses.cs",
+              "RelativeDocumentMoniker": "ManageClasses.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ManageClasses.cs [Design]",
+              "RelativeToolTip": "ManageClasses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:26:58.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Time.cs",
+              "RelativeDocumentMoniker": "Time.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Time.cs",
+              "RelativeToolTip": "Time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:40:53.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultClass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ResultClass.cs",
+              "RelativeDocumentMoniker": "ResultClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ResultClass.cs",
+              "RelativeToolTip": "ResultClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:24:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Result.cs",
+              "RelativeDocumentMoniker": "Result.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Result.cs",
+              "RelativeToolTip": "Result.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAjwEYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:21:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SetTimeCoefficient.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\SetTimeCoefficient.cs",
+              "RelativeDocumentMoniker": "SetTimeCoefficient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\SetTimeCoefficient.cs",
+              "RelativeToolTip": "SetTimeCoefficient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T10:40:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ClassInfo.cs",
+              "RelativeDocumentMoniker": "ClassInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ClassInfo.cs",
+              "RelativeToolTip": "ClassInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:11:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vxgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:17:56.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TimeCoefficient.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimeCoefficient.cs",
+              "RelativeDocumentMoniker": "TimeCoefficient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimeCoefficient.cs",
+              "RelativeToolTip": "TimeCoefficient.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAASwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:16:48.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimetableSetting2.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting2.cs",
+              "RelativeDocumentMoniker": "TimetableSetting2.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting2.cs",
+              "RelativeToolTip": "TimetableSetting2.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAcwPcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:03:57.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimetableSetting3.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting3.cs",
+              "RelativeDocumentMoniker": "TimetableSetting3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting3.cs",
+              "RelativeToolTip": "TimetableSetting3.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAqwKsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:18:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Result.cs",
+              "RelativeDocumentMoniker": "Result.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Result.cs [Design]",
+              "RelativeToolTip": "Result.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:32:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResultClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ResultClass.cs",
+              "RelativeDocumentMoniker": "ResultClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ResultClass.cs [Design]",
+              "RelativeToolTip": "ResultClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:23:44.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimetableSetting3Help.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting3Help.cs",
+              "RelativeDocumentMoniker": "TimetableSetting3Help.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting3Help.cs [Design]",
+              "RelativeToolTip": "TimetableSetting3Help.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:11:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Class.cs [Design]",
+              "RelativeToolTip": "Class.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:21:07.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClassInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ClassInfo.cs",
+              "RelativeDocumentMoniker": "ClassInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\ClassInfo.cs [Design]",
+              "RelativeToolTip": "ClassInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:11:24.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:19:08.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimeCoefficient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimeCoefficient.cs",
+              "RelativeDocumentMoniker": "TimeCoefficient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimeCoefficient.cs [Design]",
+              "RelativeToolTip": "TimeCoefficient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:16:44.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimetableSetting2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting2.cs",
+              "RelativeDocumentMoniker": "TimetableSetting2.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting2.cs [Design]",
+              "RelativeToolTip": "TimetableSetting2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:59:47.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimetableSetting3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting3.cs",
+              "RelativeDocumentMoniker": "TimetableSetting3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\TimetableSetting3.cs [Design]",
+              "RelativeToolTip": "TimetableSetting3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:18:53.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
