@@ -1,4 +1,4 @@
-# DBLabProject
+# Schedule-Timetable-For-Huster
 General: This software is used to schedule timetables for students at Hanoi University of Science and Technology. The software requires users to enter constraints for their desired schedule and then randomly generates suitable schedules. The results are scored by the software based on the user's constraints.<br>
 About the branches of this repository:<br>
 Project-Source-Code: Contains all source code files, data files, installation files, ... written on Visual Studio 2022 with C# programming language.<br>
