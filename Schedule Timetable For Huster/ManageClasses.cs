@@ -39,7 +39,11 @@ namespace Schedule_Timetable_For_Huster
 
         private void button3_Click(object sender, EventArgs e)
         {
+<<<<<<< Updated upstream
             if (listBox1.SelectedIndex > 0)
+=======
+            if (listBox1.SelectedIndex < 1)
+>>>>>>> Stashed changes
             {
                 MessageBox.Show("Please select a group");
                 return;
@@ -117,10 +121,13 @@ namespace Schedule_Timetable_For_Huster
                 comboBox2.Text = "";
             }
         }
+<<<<<<< Updated upstream
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
+=======
+>>>>>>> Stashed changes
 
         private void textBox12_TextChanged(object sender, EventArgs e)
         {
@@ -157,6 +164,7 @@ namespace Schedule_Timetable_For_Huster
                     {
                         dataRow["Status"] = comboBox2.Text;
                     }
+<<<<<<< Updated upstream
                     dataRows = TimetableSetting2.ClassSource.Select("Group = '" + row.Cells[0].Value.ToString() + "' AND Status <> 'Not Added'");
                     if (dataRows.Count() == 0)
                     {
@@ -166,6 +174,9 @@ namespace Schedule_Timetable_For_Huster
                     {
                         Parent.ChangeStatus(row.Cells[0].Value.ToString(), "Added");
                     }
+=======
+                    CheckGroup(row.Cells[0].Value.ToString());
+>>>>>>> Stashed changes
                 }
             }
         }
@@ -188,6 +199,7 @@ namespace Schedule_Timetable_For_Huster
                         dataRow["Coefficient"] = a;
                         dataRow["Status"] = comboBox2.Text;
                     }
+<<<<<<< Updated upstream
                     dataRows = TimetableSetting2.ClassSource.Select("Group = '" + row.Cells[0].Value.ToString() + "' AND Status <> 'Not Added'");
                     if (dataRows.Count() == 0)
                     {
@@ -197,6 +209,9 @@ namespace Schedule_Timetable_For_Huster
                     {
                         Parent.ChangeStatus(row.Cells[0].Value.ToString(), "Added");
                     }
+=======
+                    CheckGroup(row.Cells[0].Value.ToString());
+>>>>>>> Stashed changes
                 }
                 MessageBox.Show("Updated");
             }
@@ -208,11 +223,23 @@ namespace Schedule_Timetable_For_Huster
 
         private void dataGridView1_SelectionChanged(object sender, EventArgs e)
         {
+<<<<<<< Updated upstream
             int rowIndex = dataGridView1.CurrentCell.RowIndex;
             if (rowIndex > -1)
             {
                 ShowClass(rowIndex);
             }
+=======
+            try
+            {
+                int rowIndex = dataGridView1.CurrentCell.RowIndex;
+                if (rowIndex > -1)
+                {
+                    ShowClass(rowIndex);
+                }
+            }
+            catch { }
+>>>>>>> Stashed changes
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
@@ -237,6 +264,7 @@ namespace Schedule_Timetable_For_Huster
                         dataRow["Coefficient"] = a;
                         dataRow["Status"] = comboBox2.Text;
                     }
+<<<<<<< Updated upstream
                     dataRows = TimetableSetting2.ClassSource.Select("Group = '" + row.Cells[0].Value.ToString() + "' AND Status <> 'Not Added'");
                     if (dataRows.Count() == 0)
                     {
@@ -246,19 +274,34 @@ namespace Schedule_Timetable_For_Huster
                     {
                         Parent.ChangeStatus(row.Cells[0].Value.ToString(), "Added");
                     }
+=======
+                    CheckGroup(row.Cells[0].Value.ToString());
+>>>>>>> Stashed changes
                 }
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+<<<<<<< Updated upstream
             foreach (DataGridViewRow row in dataGridView1.SelectedRows)
             {
                 DataRow[] dataRows = TimetableSetting2.ClassSource.Select("[Class code] = '" + row.Cells[1].Value.ToString() + "'");
+=======
+            if (comboBox1.Text == "")
+            {
+                MessageBox.Show("Please select a group");
+                return;
+            }
+            foreach (DataGridViewRow row in dataGridView1.SelectedRows)
+            {
+                DataRow[] dataRows = TimetableSetting2.ClassSource.Select("[Class code] = '" + row.Cells[1].Value.ToString() + "' OR [Class code] = '" + row.Cells[2].Value.ToString() + "'");
+>>>>>>> Stashed changes
                 foreach (DataRow dataRow in dataRows)
                 {
                     dataRow["Group"] = comboBox1.Text;
                 }
+<<<<<<< Updated upstream
                 dataRows = TimetableSetting2.ClassSource.Select("Group = '" + row.Cells[0].Value.ToString() + "' AND Status <> 'Not Added'");
                 if (dataRows.Count() == 0)
                 {
@@ -270,6 +313,25 @@ namespace Schedule_Timetable_For_Huster
                 }
                 row.Cells[0].Value = comboBox1.Text;
             }
+=======
+                CheckGroup(row.Cells[0].Value.ToString());
+                row.Cells[0].Value = comboBox1.Text;
+            }
+            CheckGroup(comboBox1.Text);
+        }
+
+        private void CheckGroup(string group)
+        {
+            DataRow[] dataRows = TimetableSetting2.ClassSource.Select("Group = '" + group + "' AND Status <> 'Not Added'");
+            if (dataRows.Count() == 0)
+            {
+                Parent.ChangeStatus(group, "Not Added");
+            }
+            else
+            {
+                Parent.ChangeStatus(group, "Added");
+            }
+>>>>>>> Stashed changes
         }
     }
 }

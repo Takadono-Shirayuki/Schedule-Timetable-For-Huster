@@ -78,7 +78,11 @@
             textBox2.Location = new Point(167, 48);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(150, 36);
+<<<<<<< Updated upstream
             textBox2.TabIndex = 5;
+=======
+            textBox2.TabIndex = 2;
+>>>>>>> Stashed changes
             // 
             // label2
             // 
@@ -87,7 +91,11 @@
             label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
             label2.Size = new Size(152, 29);
+<<<<<<< Updated upstream
             label2.TabIndex = 4;
+=======
+            label2.TabIndex = 3;
+>>>>>>> Stashed changes
             label2.Text = "Course name:";
             // 
             // GroupDialog

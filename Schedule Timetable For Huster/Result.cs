@@ -65,7 +65,10 @@ namespace Schedule_Timetable_For_Huster
             }
             
             Task.Run(() => ScheduleTimetable());
+<<<<<<< Updated upstream
             /*
+=======
+>>>>>>> Stashed changes
             Task.Run(() => ScheduleTimetable());
             Task.Run(() => ScheduleTimetable());
             Task.Run(() => ScheduleTimetable());
@@ -84,7 +87,11 @@ namespace Schedule_Timetable_For_Huster
             Task.Run(() => ScheduleTimetable());
             Task.Run(() => ScheduleTimetable());
             Task.Run(() => ScheduleTimetable());
+<<<<<<< Updated upstream
             Task.Run(() => ScheduleTimetable());*/
+=======
+            Task.Run(() => ScheduleTimetable());
+>>>>>>> Stashed changes
         }
 
         private async Task ScheduleTimetable()
@@ -156,7 +163,11 @@ namespace Schedule_Timetable_For_Huster
                         {
                             if ((ClassInfo[Key][k][1].ToString() == Class[1].ToString()) || (ClassInfo[Key][k][1].ToString() == Class[2].ToString()))
                             {
+<<<<<<< Updated upstream
                                 if (ClassInfo[Key][k][9].ToString() == "Eliminated")
+=======
+                                if (ClassInfo[Key][k][12].ToString() != "Available")
+>>>>>>> Stashed changes
                                 {
                                     goto NextClass;
                                 }
@@ -175,7 +186,11 @@ namespace Schedule_Timetable_For_Huster
                             for (int k = 0; k < TimeStart[DoW].Count; k++)
                             {
                                 // if time conflict, skip the class.
+<<<<<<< Updated upstream
                                 if ((TimeStart[DoW][k] <= T1 && TimeEnd[DoW][k] >= T1) || (TimeStart[DoW][k] <= T2 && TimeEnd[DoW][k] >= T2) || (TimeStart[DoW][k] >= T1 && TimeEnd[DoW][k] <= T2))
+=======
+                                if ((TimeStart[DoW][k] < T1 && TimeEnd[DoW][k] > T1) || (TimeStart[DoW][k] < T2 && TimeEnd[DoW][k] > T2) || (TimeStart[DoW][k] >= T1 && TimeEnd[DoW][k] <= T2))
+>>>>>>> Stashed changes
                                 {
                                     goto NextClass;
                                 }

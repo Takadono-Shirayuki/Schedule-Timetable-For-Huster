@@ -323,6 +323,37 @@ namespace Schedule_Timetable_For_Huster
 
         private void button9_Click(object sender, EventArgs e)
         {
+<<<<<<< Updated upstream
+=======
+            string NotSatisfiedGroup = "";
+            foreach (var item in GroupInfo)
+            {
+                if (item.Value.Status == "Added")
+                {
+                    HashSet<String> ClassCode = new HashSet<string>();
+                    HashSet<string> AttachedClassCode = new HashSet<string>();
+                    DataRow[] rows = ClassSource.Select("Group = '" + item.Key + "' AND Status = 'Available'");
+                    foreach (DataRow row in rows)
+                    {
+                        ClassCode.Add(row[1].ToString());
+                        if (row[2].ToString() != "NULL")
+                            AttachedClassCode.Add(row[2].ToString());
+                    }
+                    if (AttachedClassCode.IsSubsetOf(ClassCode))
+                        continue;
+                    ChangeStatus(item.Key, "Not Added");
+                    rows = ClassSource.Select("Group = '" + item.Key + "'");
+                    foreach (DataRow row in rows)
+                    {
+                        row[12] = "Not Added";
+                    }
+                    NotSatisfiedGroup += item.Key + "\n";
+                }
+            }
+            if (NotSatisfiedGroup != "")
+                if (MessageBox.Show("The following groups are not satisfied:\n" + NotSatisfiedGroup + "Continue? The program will skip the \"Not satisfied\" groups.", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.No)
+                    return;
+>>>>>>> Stashed changes
             TimetableSetting3 timetableSetting3 = new TimetableSetting3(listBox2.Items);
             this.Hide();
             timetableSetting3.ShowDialog();
