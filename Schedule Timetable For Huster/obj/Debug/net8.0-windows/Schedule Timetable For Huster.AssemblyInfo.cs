@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Schedule Timetable For Huster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76599faa5c44c25f333f386961239e439ecdd414")]
 [assembly: System.Reflection.AssemblyProductAttribute("Schedule Timetable For Huster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Schedule Timetable For Huster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

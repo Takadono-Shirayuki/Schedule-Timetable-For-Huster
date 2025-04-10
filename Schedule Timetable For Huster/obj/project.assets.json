@@ -372,19 +372,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Schedule Timetable For Huster.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Github\\Schedule-Timetable-For-Huster\\Schedule Timetable For Huster\\Schedule Timetable For Huster.csproj",
       "projectName": "Schedule Timetable For Huster",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\Schedule Timetable For Huster.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Github\\Schedule-Timetable-For-Huster\\Schedule Timetable For Huster\\Schedule Timetable For Huster.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Schedule Timetable For Huster\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Github\\Schedule-Timetable-For-Huster\\Schedule Timetable For Huster\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -409,7 +414,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -439,7 +445,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
